@@ -1,0 +1,30 @@
+Product
+
+-> name: "iPhone 12",
+-> price: 999,
+-> category: "Electronics",
+-> description: "Latest Apple smartphone"
+
+--------------------
+
+Queries
+
+1. Find all products
+
+2. Find products with a price less than or equal to $200
+
+3. Find products in the "Electronics" category
+
+4. Find products with the word "Apple" in the name
+
+5. Find products with a price between $100 and $500
+
+6. Update the price of the "Amazon Echo" to $89
+
+7. Update the category of "Nike Air Max" to "Athletic Shoes"
+
+8. Delete the product with the name "Bose QuietComfort 35"
+
+9. Count the number of products in the "Electronics" category
+
+10. Find products sorted by price in descending order
